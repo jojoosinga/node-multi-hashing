@@ -80,9 +80,6 @@
                 "src/crypto",
                 "<!(node -e \"require('nan')\")"
             ],
-            "cflags": [
-                "-std=c11"
-            ],
             "cflags_cc": [
                 "-std=c99"
             ],
